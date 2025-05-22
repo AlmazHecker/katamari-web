@@ -2,8 +2,6 @@
 
 A Chrome extension that lets you roll a ball across web pages, collecting DOM elements as you go - inspired by the classic Katamari Damacy game.
 
-![Demo GIF](https://raw.githubusercontent.com/AlmazHecker/katamari-web/master/assets/example.mp4)
-
 ## Features
 
 - **Interactive Katamari Ball**: Control a 3D ball using WASD or Arrow keys and mouse clicks
